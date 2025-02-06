@@ -1,0 +1,18 @@
+{
+  "name": "dog-facts-api",
+  "version": "1.0.0",
+  "description": "## Overview The **Dog Facts API** is a simple RESTful API built using **Node.js** and **Express.js**. It provides random dog facts in JSON format. Users can retrieve a list of dog facts and specify the number of facts they want.",
+  "main": "server.js",
+  "type": "module",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
